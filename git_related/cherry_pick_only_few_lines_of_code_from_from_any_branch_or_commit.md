@@ -17,9 +17,4 @@ git reset                   # unstage the changes from the cherry-picked commit
 git add -p                  # make all your choices (add the changes you do want)  
 git commit                  # make the commit!  
 ```  
-
-<<<<<<< HEAD
 [link](https://stackoverflow.com/questions/1526044/partly-cherry-picking-a-commit-with-git)
-=======
-[link](https://stackoverflow.com/questions/1526044/partly-cherry-picking-a-commit-with-git)
->>>>>>> c9a9f08950ce9dd19e53430e4da31e55c54b894c
